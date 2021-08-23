@@ -1,6 +1,6 @@
 # Space-Zones-Form-Finding-Multi-Objectives-Optimization
 The goals for the designer to walk away with a powerful overlay of spatial information, pointing to the qualities and spatial experience at various points in the building. 
-To not be prescriptive in our approach to massing and programming, but have the basis for these processes be rooted in utilizing spatial qualities offered by the site, will allow heterogeneity in our design and flexibility for future use cases of our buildings.    
+To not be prescriptive in our approach to massing and programming, but have the basis for these processes be rooted in utilizing spatial qualities offered by the site, will allow heterogeneity in the building design and flexibility for future use cases of the buildings.    
 
 
 ![image](https://user-images.githubusercontent.com/65818525/130500804-7f963a39-d439-444a-9542-f11c8d3f1e47.png)
