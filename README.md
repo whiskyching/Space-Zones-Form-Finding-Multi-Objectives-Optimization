@@ -1,9 +1,12 @@
 # Space-Zones-Form-Finding-Multi-Objectives-Optimization
-
-![Massing](https://user-images.githubusercontent.com/65818525/130500048-ec3f2b94-4dd1-4bb5-b041-50def46e41b6.gif)
 The goals for the designer to walk away with a powerful overlay of spatial information, pointing to the qualities and spatial experience at various points in the building. 
 To not be prescriptive in our approach to massing and programming, but have the basis for these processes be rooted in utilizing spatial qualities offered by the site, will allow heterogeneity in our design and flexibility for future use cases of our buildings.    
 
+![Massing](https://user-images.githubusercontent.com/65818525/130500048-ec3f2b94-4dd1-4bb5-b041-50def46e41b6.gif)
+---
+![08](https://user-images.githubusercontent.com/65818525/130501462-5fe95533-f3f3-4f41-b2cb-a52b654ee621.jpg)
+---
+![40_](https://user-images.githubusercontent.com/65818525/130501494-bdc1f428-f2c3-42f6-bf3b-335395f70f63.jpg)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130500804-7f963a39-d439-444a-9542-f11c8d3f1e47.png)
 ---
