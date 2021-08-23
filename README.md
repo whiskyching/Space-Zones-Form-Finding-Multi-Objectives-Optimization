@@ -7,4 +7,3 @@ To not be prescriptive in our approach to massing and programming, but have the 
 
 ![image](https://user-images.githubusercontent.com/65818525/130500517-7e847ed5-5958-4364-b0f1-8d4c54f7997d.png)
 
-![image](https://user-images.githubusercontent.com/65818525/130500486-f80230b2-45c8-4fbc-943c-11423548c8b9.png)
