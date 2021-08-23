@@ -5,5 +5,3 @@ The goals for the designer to walk away with a powerful overlay of spatial infor
 To not be prescriptive in our approach to massing and programming, but have the basis for these processes be rooted in utilizing spatial qualities offered by the site, will allow heterogeneity in our design and flexibility for future use cases of our buildings.    
 
 
-![image](https://user-images.githubusercontent.com/65818525/130500517-7e847ed5-5958-4364-b0f1-8d4c54f7997d.png)
-
